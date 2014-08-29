@@ -1,0 +1,8 @@
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\bin\Debug\PicBoxTest.exe
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\bin\Debug\PicBoxTest.pdb
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\obj\Debug\PicBoxTest.Form1.resources
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\obj\Debug\PicBoxTest.Properties.Resources.resources
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\obj\Debug\PicBoxTest.csproj.GenerateResource.Cache
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\obj\Debug\PicBoxTest.exe
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\PicBoxTest\PicBoxTest\obj\Debug\PicBoxTest.pdb
